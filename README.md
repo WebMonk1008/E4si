@@ -1,4 +1,4 @@
-### Hi there, It's **Bro Code** a.k.a (Easy Study) 👋
+### Hi there, It's **Easy Study** a.k.a (Bro Code) 👋
 
 ![Simple GitHub Banner](https://raw.githubusercontent.com/WebMonk1008/E4si/main/undraw_dev-productivity_5wps.svg)
 
