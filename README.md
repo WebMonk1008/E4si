@@ -1,6 +1,6 @@
 ### Hi there, It's **Bro Code** a.k.a (Easy Study) 👋
 
-![Simple GitHub Banner](https://raw.githubusercontent.com/WebMonk1008/E4si/main/)
+![Simple GitHub Banner](https://raw.githubusercontent.com/WebMonk1008/E4si/main/undraw_dev-productivity_5wps.svg)
 
 
 ## 🚀 About Us
